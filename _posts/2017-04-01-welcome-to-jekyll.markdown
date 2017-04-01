@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "¡Bienvenidos a Dishel!"
 date:   2017-04-01 16:45:14 -0400
 categories: jekyll update
 ---
